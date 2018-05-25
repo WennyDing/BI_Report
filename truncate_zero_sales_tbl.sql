@@ -1,0 +1,12 @@
+truncate table stock_sales_tbl_D0;
+truncate table stock_sales_tbl_D28;
+truncate table stock_sales_tbl_D42;
+truncate table stock_sales_tbl_D90;
+truncate table stock_sales_tbl_D180;
+truncate table stock_sales_tbl_D270;
+truncate table stock_sales_tbl_D360;
+truncate table STOCK_SALES_LOG;
+truncate table pog_combine_for_zero_sales;
+truncate table STOCK_SALES_TBL;
+truncate table STOCK_SALES_TBL_TMP;
+exit;
